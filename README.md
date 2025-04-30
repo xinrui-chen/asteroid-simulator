@@ -10,7 +10,7 @@ Real-time spaceship control
 
 Collision detection between ship and asteroids
 
-⏱Countdown timer and scoring system
+Countdown timer and scoring system
 
 Classic arcade-inspired gameplay
 
